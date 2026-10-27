@@ -1,0 +1,37 @@
+{
+    "courses": [
+        {
+            "course_name": "语文",
+            "credit": 3.0
+        },
+        {
+            "course_name": "数学",
+            "credit": 3.0
+        },
+        {
+            "course_name": "英语",
+            "credit": 3.0
+        }
+    ],
+    "student_scores": [
+        {
+            "stu_id": "52",
+            "name": "小明",
+            "gender": "男",
+            "scores": {
+                "语文": 80.0,
+                "数学": 90.0,
+                "英语": 75.0
+            }
+        },
+        {
+            "stu_id": "13",
+            "name": "小红",
+            "gender": "男",
+            "scores": {
+                "数学": 82.0,
+                "英语": 75.0
+            }
+        }
+    ]
+}
